@@ -1,6 +1,6 @@
 from random import choice, randint
 from pygame import *
-import sys
+# import sys
 
 init()
 font.init()
